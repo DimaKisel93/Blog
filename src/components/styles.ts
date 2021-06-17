@@ -45,6 +45,9 @@ const useStyles = makeStyles((theme: Theme) => ({
     paginationContainer: {
       display: "flex",
       justifyContent: "center"
+    },
+    addButtonArticle: {
+      margin: "10px 20px"
     }
 }));
 
